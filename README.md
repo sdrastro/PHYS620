@@ -33,6 +33,8 @@ Computer-based homework assignments and Jupyter notebook tutorials for PHYS 620,
   generalized momentum for constrained systems 
 - Proof that the Euler-Lagrange equation is valid for any
   holonomic system and that constraint forces can be neglected
+- Hamiltonian and conservation of energy
+- Generalized Lagrangian with E&M example
 
 In general you will not have to replicate an entire derivation or
 proof on a test - in particular, the derivation of the
