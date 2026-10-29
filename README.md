@@ -68,8 +68,9 @@ to explain them, or fill in a missing step.
   - Definition of $\vec{\rho}$, $\vec{r}$, $\dot{\vec{r}}$, $\theta$
   - Adding angular velocities
   - Taking time derivatives
-  - Derivation of equation of motion, including centrifugal and coriolis terms
+  - Derivation of equation of motion, including centrifugal and Coriolis terms
   - Effect of centrifugal force
+  - Free fall
   - Effect of Coriolis deflection, when / where it is important
   - Foucault pendulum (not on Test 2)
 
