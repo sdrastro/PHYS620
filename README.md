@@ -71,4 +71,5 @@ to explain them, or fill in a missing step.
   - Derivation of equation of motion, including centrifugal and coriolis terms
   - Effect of centrifugal force
   - Effect of Coriolis deflection, when / where it is important
+  - Foucault pendulum (not on Test 2)
 
